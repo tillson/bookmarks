@@ -1,4 +1,4 @@
-# Tillson's Resource Compilation
+# Tillson's Bookmarks
 Resources for programming, security, computers, and really anything I'm into.  This is more of a personal bookmark list than a full-on resource list, but still may prove helpful in the respective topics.  
 I'll add to this as I come across more resources.
 
