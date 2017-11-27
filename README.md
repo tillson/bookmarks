@@ -22,10 +22,12 @@ I'll add to this as I come across more resources.
   * [Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) - This post in particular is great
 * [Keras](https://keras.io/) - Library that sits on top of TensorFlow and makes it more high-level/easier to understand.
 
+### Git
+* [Git Tips](http://git.io/git-tips) How to do [insert anything] in git.  Useful for those of us who can't remember commands ever
+
 ### Misc.
 * [Radiohead lyrical analysis in R](http://rcharlie.com/2017-02-16-fitteR-happieR) - Uses R to analyze how sad various Radiohead songs are.  Helpful for understanding how R works in practice.
 * [Tell Docker to start container on a specific IP range](https://jpetazzo.github.io/2013/10/16/configure-docker-bridge-network/) - Used in PGCTF server setup.
-
 ## Cybersecurity
 
 ### Tools
@@ -46,9 +48,9 @@ I'll add to this as I come across more resources.
 * [CTF Resources](https://github.com/SandySekharan/CTF-tool) - Compilation of CTF resources
 
 ### CyberPatriot/PCDC
-* [CyberPatriot](http://www.uscyberpatriot.org/) - National blue team security competition for high schoolers
+* [CyberPatriot](http://www.uscyberpatriot.org/) - National defensive security competition for high schoolers
 * [Palmetto Cyber Defense Competition](http://pcdc-sc.com/) - Annual South Carolina collegiate CCDC-style game
-* [Linux checklist](https://github.com/Forty-Bot/linux-checklist) - Nice Linux checklist
+* [Linux checklist](https://github.com/Forty-Bot/linux-checklist) - Nice Linux checklist for events like these
 * [Reset Windows Update Agent](https://gallery.technet.microsoft.com/scriptcenter/Reset-Windows-Update-Agent-d824badc) - Script to reset Windows Update Agent if it's broken.  This site contains other nice scripts as well.
 * [binsnitch](https://github.com/NVISO-BE/binsnitch) - Detects unwanted changes to system files using file hashes.
 
@@ -77,5 +79,3 @@ I'll add to this as I come across more resources.
 ## Music
 * [A Quintessential Trey Anastasio Guitar Lesson](https://www.youtube.com/watch?v=WvDbm3zof4A) - Really good tutorial on playing like Phish's Trey Anastasio/building tension.  The guy ([StitchMethod](https://www.youtube.com/channel/UCzArv1HZtOroXdla0jT8Zuw)) has a lot of other good guitar tutorials too.
 * [MusicTheory.net](http://www.musictheory.net/) - Decent lessons in basic music theory
-* [Phish.net](http://phish.net) - Everything you ever could want to know about the jam-band Phish.
-* [Forgotify](http://forgotify.com/) - Plays Spotify songs that have 0 plays.  Cool novelty.
