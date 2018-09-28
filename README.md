@@ -15,6 +15,9 @@ I'll add to this as I come across more resources.
 * [AppCoda Tutorials](https://appcoda.com/tutorials/ios/) - More helpful iOS tutorials.
 * [Swift Closure Syntax](http://goshdarnclosuresyntax.com/) - "How do I declare a closure in Swift?"
 
+### Web
+* [CSS Measurements](https://dev.to/flippedcoding/most-common-css-units-of-measure-explained-2kee)
+
 ### Machine Learning
 * [Siraj Raval YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) - Great tutorials on everything involving machine learning (neural networks, deep learning, data analysis, underlying math, etc.)
 * [Learn TensorFlow and Machine Learning Without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) - Pretty good introductory tutorial promoted from Google
